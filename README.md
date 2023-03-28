@@ -7,7 +7,7 @@
 
 # Things to remember
 
-* 
+* method should be able to handle multiple words
 
 # Edge Cases
 
