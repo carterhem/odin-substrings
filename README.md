@@ -11,3 +11,4 @@
 
 # Edge Cases
 
+* Case sensitive handling of dictionary? Or only string?
